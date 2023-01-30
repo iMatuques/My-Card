@@ -29,4 +29,10 @@ Esse projeto se baseia em um card pessoal onde os usuários poderam acessar info
   <img alt="" src="https://cdn.discordapp.com/attachments/930441255140352040/1069620485358354583/carddark.png" width="80%">
 </p>
 
+<br>
 
+## 📚 Estudos • Plataformas
+
+ - Conceitos básicos de HTML e CSS.
+ - DarkMode com Javascript
+ - Projeto disponível na <a href="https://rocketseat.com.br/">Rocketseat.</a>
