@@ -34,5 +34,5 @@ Esse projeto se baseia em um card pessoal onde os usuários poderam acessar info
 ## 📚 Estudos • Plataformas
 
  - Conceitos básicos de HTML e CSS.
- - DarkMode com Javascript
+ - DarkMode com Javascript.
  - Projeto disponível na <a href="https://rocketseat.com.br/">Rocketseat.</a>
